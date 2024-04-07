@@ -7,4 +7,4 @@ The second change on another branch,just test the function of master and branch;
 Let's begin our journey on github;
 Fighting!!!!
 
-https://data.baai.ac.cn/details/WuDaoCorporaText
+中文数据集pretrain（人工智能研究院）：https://data.baai.ac.cn/details/WuDaoCorporaText
